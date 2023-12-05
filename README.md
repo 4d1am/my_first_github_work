@@ -18,10 +18,3 @@ cp: copy a file, cp lab1/original lab2/duplicate, This command will copy the ori
 mv: move or rename a file, mv lab1/original lab2/original, This command moves original from lab1 to lab2. Unlike cp, mv does not leave original in the lab1 directory.
 mv lab1/original lab1/newname, This command does not move the file but rather renames it from original to newname.
 
-Here are some other useful tricks when working in a terminal.
-Your shell can complete file names and directory names for you with tab completion. When you have an incomplete name (for something that already exists), try pressing the tab key for autocomplete or a list of possible names.
-You can copy-paste into the terminal. This is straightforward on Mac, but on Windows, right-click to copy and paste highlighted text.
-If you want to run the same command used recently, press the up arrow key on your keyboard
-until you see the correct instruction. If you go too far, use the down key to go back.
-This saves typing time if you are doing repetitive instructions.
-You can have multiple terminals open at a time - this might help speed up your workflow if you’re running separate tasks that require the terminal.
