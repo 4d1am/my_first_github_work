@@ -18,5 +18,6 @@ cp: copy a file, cp lab1/original lab2/duplicate, This command will copy the ori
 mv: move or rename a file, mv lab1/original lab2/original, This command moves original from lab1 to lab2. Unlike cp, mv does not leave original in the lab1 directory.
 mv lab1/original lab1/newname, This command does not move the file but rather renames it from original to newname.
 
-My god, I am trying to push it again, hopefully it works
+would like to change it again, to test git commands and make sure it works well
+Thank god!
 
